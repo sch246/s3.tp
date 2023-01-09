@@ -1,0 +1,1 @@
+function #s3:player/register

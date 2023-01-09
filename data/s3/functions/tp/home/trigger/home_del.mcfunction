@@ -1,0 +1,1 @@
+data remove storage temp tp_person.home.list[-1]

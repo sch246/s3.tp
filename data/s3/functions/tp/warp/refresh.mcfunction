@@ -1,0 +1,1 @@
+scoreboard players set @s warp -2147483647

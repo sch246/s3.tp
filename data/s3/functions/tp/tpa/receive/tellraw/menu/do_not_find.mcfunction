@@ -1,0 +1,2 @@
+tellraw @s ["",{"text": "未检测到朝向自身的tpa请求","color": "gray","italic": true}]
+tellraw @s ["",{"text": "[","color": "gray"},{"text": "点击刷新","color": "aqua","underlined": true,"hoverEvent": {"action": "show_text","value": {"text": "/trigger tpa.receive"}},"clickEvent": {"action": "run_command","value": "/trigger tpa.receive"}},{"text": "]","color": "gray"}]

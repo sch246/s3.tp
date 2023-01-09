@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "changed_dimension"
+        }
+    },
+    "rewards": {
+        "function": "s3:dimension/move"
+    }
+}

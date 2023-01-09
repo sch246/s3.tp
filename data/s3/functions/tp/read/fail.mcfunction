@@ -1,0 +1,1 @@
+tellraw @s {"text": "找不到传送点","color": "red"}

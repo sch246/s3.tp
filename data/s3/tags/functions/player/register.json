@@ -1,0 +1,7 @@
+{
+    "values": [
+        "s3:dimension/move",
+        "s3:uid/register",
+        "s3:player/getname"
+    ]
+}

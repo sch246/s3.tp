@@ -1,0 +1,1 @@
+tellraw @s {"text": "传送点没有对外开放","color": "red"}

@@ -1,0 +1,15 @@
+{
+    "replace": false,
+    "values": [
+        "s3:time/load",
+        "s3:player/load",
+        "s3:dimension/load",
+        "s3:help/load",
+        "s3:tp/load",
+        "s3:uid/load",
+        "s3:person/load",
+        "5s",
+        "s3:list/load",
+        "s3:friend/load"
+    ]
+}

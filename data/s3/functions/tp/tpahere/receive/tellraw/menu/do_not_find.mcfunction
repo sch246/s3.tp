@@ -1,0 +1,2 @@
+tellraw @s ["",{"text": "未检测到朝向自身的tpahere请求","color": "gray","italic": true}]
+tellraw @s ["",{"text": "[","color": "gray"},{"text": "点击刷新","color": "aqua","underlined": true,"hoverEvent": {"action": "show_text","value": {"text": "/trigger tpahere.receive"}},"clickEvent": {"action": "run_command","value": "/trigger tpahere.receive"}},{"text": "]","color": "gray"}]

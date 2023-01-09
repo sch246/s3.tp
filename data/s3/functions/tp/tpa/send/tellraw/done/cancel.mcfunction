@@ -1,0 +1,1 @@
+tellraw @s {"text": "已取消发出的tpa请求","color": "yellow"}

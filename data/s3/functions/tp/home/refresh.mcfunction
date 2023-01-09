@@ -1,0 +1,1 @@
+scoreboard players set @s home -2147483647

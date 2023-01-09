@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "s3:tp/help",
+        "s3:uid/help"
+    ]
+}

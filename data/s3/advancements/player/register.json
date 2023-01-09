@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "tick"
+        }
+    },
+    "rewards": {
+        "function": "s3:player/register"
+    }
+}

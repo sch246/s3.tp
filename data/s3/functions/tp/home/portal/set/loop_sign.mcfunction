@@ -1,0 +1,2 @@
+execute if block ~ ~ ~ #signs align xyz positioned ~.5 ~.5 ~.5 store result score #touch tmp run function s3:tp/home/portal/set/if
+execute if score #touch tmp matches 0 if entity @s[distance=..7] positioned ^ ^ ^0.2 run function s3:tp/home/portal/set/loop_sign

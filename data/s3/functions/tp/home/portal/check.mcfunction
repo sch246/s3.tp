@@ -1,0 +1,1 @@
+execute as @e[type=armor_stand,tag=home.portal] at @s positioned ~ ~-3000 ~ unless block ~ ~ ~ #signs run kill @s
